@@ -14,4 +14,7 @@
 .text{
     font-size:300px;
     font-family: 'Honk';
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
