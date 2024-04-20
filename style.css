@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+
 .header{
     border: 1px solid blue;
     height:88px;
@@ -8,4 +10,8 @@
 
 .myIcons{
     font-size:100px;
+}
+.text{
+    font-size: 50px;
+    font-family: 'Honk';
 }
