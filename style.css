@@ -2,10 +2,10 @@
     border: 1px solid blue;
     height:88px;
     display:flex;
-    justify-content:space-around;
+    justify-content:space-between;
     align-items:center;
 }
 
 .myIcons{
-    font-size:50px;
+    font-size:100px;
 }
