@@ -1,6 +1,8 @@
 .header{
     border: 1px solid blue;
-    background-color:blue;
-    color:white;
     height:88px;
+}
+
+.myIcons{
+    font-size:50px;
 }
